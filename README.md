@@ -12,3 +12,4 @@
 ![SparkSQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00B3A4?style=for-the-badge&logo=milvus&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/VectorDB-5A67D8?style=for-the-badge)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
